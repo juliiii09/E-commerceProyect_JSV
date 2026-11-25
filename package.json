@@ -1,0 +1,11 @@
+{
+  "name": "e-commerce-proyect-jsv",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix aura-skin-lab run dev",
+    "build": "npm --prefix aura-skin-lab run build",
+    "start": "npm --prefix aura-skin-lab run start",
+    "lint": "npm --prefix aura-skin-lab run lint"
+  }
+}
